@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "metals/2026-03-23-gold-silver-analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-03-23-gold-silver-analysis"
             }
           }
         ],
@@ -211,6 +211,9 @@
   },
   "active": "b0ff702b352320c1",
   "lastOpenFiles": [
+    "README.md",
+    "metals/2026-03-23-gold-silver-analysis.md",
+    "metals",
     "reddit/2026-W12-proofing-box-analysis.md",
     "youtube/2026-03-18.md",
     "youtube/ai-2026-03-19.md",
@@ -236,8 +239,6 @@
     "我是一条野狗.md",
     "youtube/baking-2026-03-19.md",
     "youtube/2026-03-19.md",
-    "youtube/finance-2026-03-19.md",
-    "reddit/2026-W12.md",
-    "README.md"
+    "youtube/finance-2026-03-19.md"
   ]
 }
