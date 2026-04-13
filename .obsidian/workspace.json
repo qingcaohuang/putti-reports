@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metals/2026-03-23-gold-silver-analysis.md",
+                "file": "youtube方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-23-gold-silver-analysis"
+              "title": "youtube方案"
             }
           }
         ],
@@ -209,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "386579b522bc54c1",
+  "active": "b0ff702b352320c1",
   "lastOpenFiles": [
+    "metals/2026-03-23-gold-silver-analysis.md",
+    "youtube方案.md",
     "youtube/finance-2026-03-25.md",
     "youtube/baking-2026-03-25.md",
     "youtube/ai-2026-03-25.md",
@@ -233,7 +235,6 @@
     "geopolitics",
     "OpenClaw Workspace",
     "README.md",
-    "metals/2026-03-23-gold-silver-analysis.md",
     "metals",
     "reddit/2026-W12-proofing-box-analysis.md",
     "youtube/2026-03-18.md",
@@ -243,7 +244,6 @@
     "youtube/ai-2026-03-23.md",
     "youtube/2026-03-20.md",
     "youtube/finance-2026-03-22.md",
-    "youtube/finance-2026-03-21.md",
     "test.txt",
     "test-cron.txt"
   ]
