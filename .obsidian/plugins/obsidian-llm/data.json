@@ -1,0 +1,31 @@
+{
+  "defaultProvider": "opencode",
+  "providers": {
+    "claude": {
+      "enabled": true,
+      "useAcp": true
+    },
+    "opencode": {
+      "enabled": true,
+      "useAcp": true
+    },
+    "codex": {
+      "enabled": false,
+      "useAcp": true
+    },
+    "gemini": {
+      "enabled": false,
+      "useAcp": true
+    }
+  },
+  "insertPosition": "cursor",
+  "streamOutput": true,
+  "systemPromptFile": "",
+  "defaultTimeout": 120,
+  "conversationHistory": {
+    "enabled": true,
+    "maxMessages": 10
+  },
+  "allowFileWrites": false,
+  "debugMode": false
+}
