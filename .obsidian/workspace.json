@@ -189,9 +189,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5aaa4c1c4da09de6",
+            "type": "leaf",
+            "state": {
+              "type": "llm-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "LLM Chat"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -211,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0ff702b352320c1",
+  "active": "5aaa4c1c4da09de6",
   "lastOpenFiles": [
     "metals/2026-03-23-gold-silver-analysis.md",
     "youtube方案.md",
