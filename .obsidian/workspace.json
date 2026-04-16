@@ -1,38 +1,20 @@
 {
   "main": {
-    "id": "9b299f20a073b477",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "966cf9008bbf9a01",
+        "id": "b87cb9d5127a177b",
         "type": "tabs",
         "children": [
           {
-            "id": "f2349a766757aa61",
+            "id": "7d3f17ef4a985ac8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metals/2026-03-23-gold-silver-analysis.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-03-23-gold-silver-analysis"
-            }
-          },
-          {
-            "id": "b0ff702b352320c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息采集和整理方案设计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "信息采集和整理方案设计"
+              "title": "新标签页"
             }
           }
         ]
@@ -217,15 +199,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "5aaa4c1c4da09de6",
+  "active": "7d3f17ef4a985ac8",
   "lastOpenFiles": [
+    "未命名.md",
+    "metals/2026-03-23-gold-silver-analysis.md",
     "youtube/baking-2026-03-19.md",
     "信息采集和整理方案设计.md",
     "youtube方案.md",
-    "metals/2026-03-23-gold-silver-analysis.md",
     "youtube/finance-2026-03-25.md",
     "youtube/baking-2026-03-25.md",
     "youtube/ai-2026-03-25.md",
@@ -254,7 +238,6 @@
     "youtube/ai-2026-03-19.md",
     "youtube/2026-03-23.md",
     "youtube/finance-2026-03-23.md",
-    "youtube/ai-2026-03-23.md",
     "test.txt",
     "test-cron.txt"
   ]
