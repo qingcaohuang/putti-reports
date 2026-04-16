@@ -221,10 +221,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "386579b522bc54c1",
+  "active": "b0ff702b352320c1",
   "lastOpenFiles": [
-    "youtube方案.md",
+    "youtube/baking-2026-03-19.md",
     "信息采集和整理方案设计.md",
+    "youtube方案.md",
     "metals/2026-03-23-gold-silver-analysis.md",
     "youtube/finance-2026-03-25.md",
     "youtube/baking-2026-03-25.md",
@@ -255,7 +256,6 @@
     "youtube/2026-03-23.md",
     "youtube/finance-2026-03-23.md",
     "youtube/ai-2026-03-23.md",
-    "youtube/2026-03-20.md",
     "test.txt",
     "test-cron.txt"
   ]
