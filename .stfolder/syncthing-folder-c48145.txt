@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: putti-reports
+created: 2026-04-16T10:59:13+08:00
