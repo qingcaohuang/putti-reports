@@ -1,0 +1,9 @@
+每日复盘摘要 2026-04-22 00:36 (UTC)
+
+✅ 完成：Inbox 监听、合规抽查
+⚠️ 异常：4个cron任务失败（看门狗、任务催办x2、Inbox监听）
+⚠️ 待办：告警机制需修复（缺少sessionKey/label）
+
+💡 建议：调查异常原因、修复告警参数
+
+详细报告：/home/david/.openclaw/workspace/putti-reports/daily-review/2026-04-22.md
